@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Soumajit2004
-- 👀 I’m interested in computers
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on nothing
+- 👋 Hi, I’m Soumajit Ghosh
+- 👀 I’m interested in computers & AI
+- 🌱 I’m currently learning React
 - 📫 How to reach me soumojitghosh02@gmail.com
 
 <!---
