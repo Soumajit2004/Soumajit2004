@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Soumajit Ghosh
-- 👀 I’m interested in computers & AI
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Programming & AI
+- 🌱 I’m currently learning Machine Learning with TF
 - 📫 How to reach me soumojitghosh02@gmail.com
 
 <!---
