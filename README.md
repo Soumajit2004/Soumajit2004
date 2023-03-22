@@ -19,7 +19,7 @@ I have always been fascinated by technology, especially computers, and love expl
 * Web Development
 * Cloud Computing
 
-## Learning 
+## Learning ✅
 * Tenserflow 2.
 * Svelte & Svelte kit.
 
