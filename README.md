@@ -5,9 +5,8 @@ I have always been fascinated by technology, especially computers, and love expl
 
 ## Skills 🔮
 * Programming languages: Python, Javascript & Dart
-* Frameworks: React, Next.js, Flask & Flutter
+* Frameworks: React, Next.js, Flask & Nest.js
 * Database: MySQL, MongoDB & Postgres
-* Operating Systems: Windows, Linux
 
 ## Projects 📑
 * GEW ERP: Salary, Docs & Emloyee management platform.
@@ -15,12 +14,11 @@ I have always been fascinated by technology, especially computers, and love expl
 * SMS SVVM: Student & Marks Management System for a School.
 
 ## Interests 🧠
-* Machine Learning and Artificial Intelligence
 * Web Development
 * Cloud Computing
 
 ## Learning ✅
-* Tenserflow 2.
+* React Native.
 * Svelte & Svelte kit.
 
 ## Education 📚
