@@ -4,22 +4,20 @@ I'm a passionate computer science student from India, currently pursuing my high
 I have always been fascinated by technology, especially computers, and love exploring their limitless potential.
 
 ## Skills 🔮
-* Programming languages: Python, Javascript & Dart
-* Frameworks: React, Next.js, Flask & Nest.js
+* Programming languages: Python, Javascript & Typescript
+* Frameworks: Nest.js, Next.js & Flask
 * Database: MySQL, MongoDB & Postgres
-
-## Projects 📑
-* GEW ERP: Salary, Docs & Emloyee management platform.
-* Lapse Pro: Timelapse Camera built on Flutter.
-* SMS SVVM: Student & Marks Management System for a School.
 
 ## Interests 🧠
 * Web Development
 * Cloud Computing
+* AI
+* Blockchain / WEB 3.0
 
 ## Learning ✅
 * React Native.
-* Svelte & Svelte kit.
+* Fast API.
+* Docker
 
 ## Education 📚
 * Swami Vivekananda Vidyamandir, Sr Secendary (Class XII), 2023
