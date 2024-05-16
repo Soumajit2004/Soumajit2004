@@ -4,7 +4,7 @@ I'm a passionate computer science student from India, currently pursuing my high
 I have always been fascinated by technology, especially computers, and love exploring their limitless potential.
 
 ## Skills 🔮
-* Programming languages: Python, Javascript & Typescript
+* Languages: Python, Javascript & Typescript
 * Frameworks: Nest.js, Next.js & Flask
 * Database: MySQL, MongoDB & Postgres
 
