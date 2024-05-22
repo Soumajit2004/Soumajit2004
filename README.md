@@ -16,7 +16,7 @@ I have always been fascinated by technology, especially computers, and love expl
 
 ## Learning ✅
 * React Native.
-* Fast API.
+* Express
 * Docker
 
 ## Education 📚
