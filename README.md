@@ -12,7 +12,6 @@ I have always been fascinated by technology, especially computers, and love expl
 * Web Development
 * Cloud Computing
 * AI
-* Blockchain / WEB 3.0
 
 ## Learning ✅
 * React Native.
