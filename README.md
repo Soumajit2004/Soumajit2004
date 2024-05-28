@@ -14,7 +14,7 @@ I have always been fascinated by technology, especially computers, and love expl
 * AI
 
 ## Learning ✅
-* React Native.
+* Tenserflow
 * Express
 * Docker
 
