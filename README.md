@@ -5,17 +5,16 @@ I have always been fascinated by technology, especially computers, and love expl
 
 ## Skills 🔮
 * Languages: Python, Javascript & Typescript
-* Frameworks: React.js, Nest.js, Next.js & Flask
+* Frameworks: Angular, Nest.js, Next.js(don't preffer it) & Flask
 * Database: MySQL, MongoDB & Postgres
 
 ## Interests 🧠
 * Web Development
 * Cloud Computing
-* AI
 
 ## Learning ✅
-* Tenserflow
-* Express
+* DSA
+* Java
 * Docker
 
 ## Education 📚
