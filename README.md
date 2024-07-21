@@ -1,30 +1,20 @@
-# Hi there, I'm Soumajit Ghosh! 👋🏼
+### 👋 Hi, I'm Soumajit Ghosh
 
-I'm a passionate computer science student from India, currently pursuing my highschool degree. 
-I have always been fascinated by technology, especially computers, and love exploring their limitless potential.
+* 🎓 B.Tech CSE student at KIIT University, Bhubaneswar
+* 🚀 Aspiring Full Stack Web Developer
+* 🌱 Open Source Enthusiast
 
-## Skills 🔮
-* Languages: Python, Javascript & Typescript
-* Frameworks: Angular, Nest.js, Next.js(don't preffer it) & Flask
-* Database: MySQL, MongoDB & Postgres
+#### 💻 Tech Stack
 
-## Interests 🧠
-* Web Development
-* Cloud Computing
+* Languages: JavaScript (⭐️), TypeScript (⭐️), Python, Java (learning)
+* Frontend: React.js, Next.js, Angular (learning)
+* Backend: Nest.js, Express.js
+* Databases: PostgreSQL, MySQL, MongoDB (learning)
 
-## Learning ✅
-* DSA
-* Java
-* Docker
+#### 🔍 Currently
 
-## Education 📚
-* Swami Vivekananda Vidyamandir, Sr Secendary (Class XII), 2023
+* 📚 Focusing on full stack development
+* 🛠️ Working on personal projects
+* 👥 Looking to collaborate on open source projects
 
-## Achievements and Awards 🏆
-* Participated in AI for youth: A joint bootcamp from intel & CBSE on AI & Python.
-
-## Contact 📞
-* Email: soumojitghosh02@gmail.com
-* GitHub: Soumajit2004
-
-### Looking forward to connecting with like-minded individuals and contributing to the tech community. Let's build something great together!
+#### Let's connect and build something awesome together! 🤝
