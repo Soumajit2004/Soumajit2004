@@ -6,10 +6,12 @@
 
 #### 💻 Tech Stack
 
-* Languages: JavaScript (⭐️), TypeScript (⭐️), Python, Java (learning)
-* Frontend: React.js (⭐️), Next.js, Angular (learning)
-* Backend: Nest.js (⭐️), Express.js (⭐️), Flask
-* Databases: PostgreSQL (⭐️), MySQL (⭐️), MongoDB (learning)
+| **Category**  | **Proficient In**             | **Learning**         |
+|---------------|-------------------------------|----------------------|
+| **Languages** | JavaScript, TypeScript, Python | Java                 |
+| **Frontend**  | React.js, Next.js              | Angular              |
+| **Backend**   | Nest.js, Express.js            |                      |
+| **Databases** | PostgreSQL, MySQL              | MongoDB              |
 
 #### 🔍 Currently
 
