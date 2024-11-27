@@ -10,7 +10,7 @@
 |---------------|-------------------------------|----------------------|
 | **Languages** | JavaScript, TypeScript, Python | Java                 |
 | **Frontend**  | React.js, Next.js              | Angular              |
-| **Backend**   | Nest.js, Express.js            |                      |
+| **Backend**   | Nest.js, Express.js, Flask     |                      |
 | **Databases** | PostgreSQL, MySQL              | MongoDB              |
 
 #### 🔍 Currently
