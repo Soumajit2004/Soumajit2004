@@ -1,22 +1,14 @@
-### 👋 Hi, I'm Soumajit Ghosh
+### 🙏 Namaste,
+# I am Soumajit Ghosh
 
-* 🎓 B.Tech CSE student at KIIT University, Bhubaneswar
-* 🚀 Aspiring Full Stack Web Developer
-* 🌱 Open Source Enthusiast
+A first year CS student & fullstack developer from India, with a curiosity in computers. 
 
-#### 💻 Tech Stack
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=Soumajit2004&theme=dark&show_icons=true">
+    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=Soumajit2004&show_icons=true">
+</picture>
 
-| **Category**  | **Proficient In**             | **Learning**         |
-|---------------|-------------------------------|----------------------|
-| **Languages** | JavaScript, TypeScript, Python | Java                 |
-| **Frontend**  | React.js, Next.js              | Angular              |
-| **Backend**   | Nest.js, Express.js, Flask     |                      |
-| **Databases** | PostgreSQL, MySQL              | MongoDB              |
+- :pencil2: Javascript | Typescript | Python | Dart (many years ago)
+- planning to get involved in open source 
+- daily driving Fedora.
 
-#### 🔍 Currently
-
-* 📚 Focusing on full stack development
-* 🛠️ Working on personal projects
-* 👥 Looking to collaborate on open source projects
-
-#### Let's connect and build something awesome together! 🤝
