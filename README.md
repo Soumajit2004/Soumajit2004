@@ -1,7 +1,6 @@
-## Namaste ! 
-# I'm Soumajit Ghosh 👋
+# Namaste!  I'm Soumajit Ghosh 👋
 
-## 🚀 Full Stack Developer | Cloud Enthusiast 
+### 🚀 Full Stack Developer | Cloud Enthusiast 
 
 ### 💻 Tech Stack
 
