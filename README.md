@@ -5,17 +5,17 @@
 ### 💻 Tech Stack
 
 #### Primary Technologies
+- **Languages**: Javascript/Typescript, Python
 - **Frontend**: React, Angular
 - **Backend**: Node.js, Express.js, Nest.js
 - **Database**: PostgreSQL, MySQL
-- **DevOps**: Docker
+- **DevOps**: Docker, Kubernetes
 - **Cloud**: Google Cloud Platform (GCP), AWS
 
-#### Additional Skills
-- **Python**: Flask and various Python frameworks
-- **Containerization**: Docker, Kubernetes
-- **Databases**: MongoDB, PostgreSQL
-- **Cloud Services**: GCP, Firebase Deployment and Management
+#### Additional Skills ( worked with but not proficient in )
+- **Languages**: Java (learning)
+- **Frafeworks**: Angular, Flask
+- **Databases**: MongoDB
 
 ### 📫 Let's Connect!
 - LinkedIn: [Soumajit Ghosh](https://www.linkedin.com/in/soumajit-ghosh/)
