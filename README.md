@@ -15,12 +15,12 @@
 #### Additional Skills ( worked with but not proficient in )
 - **Languages**: Java (learning)
 - **Frafeworks**: Angular, Flask
-- **Databases**: MongoDB
+- **Databases**: Firestore
 
 ### 📫 Let's Connect!
 - LinkedIn: [Soumajit Ghosh](https://www.linkedin.com/in/soumajit-ghosh/)
 - Email: soumojitghosh02@gmail.com
-- Personal Website: launching soon
+- Personal Website: [soumajit.dev](https://soumajit.dev)
 
 ### 🌱 Always Learning
 Continuously exploring new technologies and improving my craft in software development.
